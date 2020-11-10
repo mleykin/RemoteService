@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/blame/
+/app/build/intermediates/classes/
+/app/build/intermediates/classes/debug/
+/app/build/intermediates/incremental/
+/app/build/intermediates/incremental-safeguard/
+/app/build/intermediates/manifests/
+/app/build/intermediates/res/
+/app/build/intermediates/transforms/
+/app/build/outputs/
+/build/
